@@ -1,4 +1,4 @@
-<h1>Hora Atual</h1>
+## Hora Atual
 <div align="center">
 
 ![morning](https://user-images.githubusercontent.com/91853688/180628034-4a1f924f-ba29-4bd6-8fc0-942bf3eacacd.png)
